@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(int argc, char** argv){
-	std::cout << "Hello Word" << std::endl;
+	std::cout << "Git e melhor que svn" << std::endl;
 }
